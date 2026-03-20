@@ -9,7 +9,6 @@ lagos-apartment-price-prediction/
 ├── data/
 │   └── nigeria_houses.csv
 ├── lagos_apartment_price_prediction.ipynb
-├── .gitignore
 └── README.md
 ```
 
